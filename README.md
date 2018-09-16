@@ -5,7 +5,7 @@ This is in a motive to help the college dropouts or who is less privileged over 
 
 Of-course you need discipline to learn, which i may or may not cover in this collection.
 
-# Why this document ?
+## Why this repository ?
 
 - The Internet is overwhelming and highly polluted, adultrated with lots of mis leading content. Should I fix it ? before that Can I fix it ? No, its impossible an individual to fix it. Its way beyond my scope. 
 
@@ -15,7 +15,7 @@ Of-course you need discipline to learn, which i may or may not cover in this col
 
 - This is an effort to help someone to aspire to be a self taught genius or at least scholar.
 
-# What this repository contains ?
+## What this repository contains ?
 So as a strong believer of collective intelligence this is a way that I feel that it can help.
 
 - This repository will have ways and means to master or at least to learn every field of study.
