@@ -4,18 +4,14 @@
 
 In my understanding its the study of understanding how the world around us works. Computer Science is one such field that is very specific about this modern machine.
 
-## What is computer science ? 
+## What is Computer Science ? 
 
 Computer Science is all about you tell computers to do what you wanted to acomplish in a way that is understood by the computer which is nothing but program. These programs can be compared to a poetry written in your mother tounge. 
 
-To write poetry you need lots of vernacular skills, here you need lots of
+To write poetry you need lots of vernacular skills, here you need set of following skills:
 
-1. The language ( the programming language , the vernacular language you need to master before you write poetry)
-2. The programming skill ( its the actual skill that you need to develop to write programs, its like a skill you need to develop to write poetry)
-
-Computer Science is the buzz of this era with Machine learning, Artificial Intelligence, Deep learning, Natural Language Processing, Data Science as common words in the city like Bengaluru, Chennai where the digital revolution is taking place. Its overwhelming.
-
-Equally there are so many folks, students out there who find very difficult to understand a simple fibbonaci sequence generation program. How did this happen 
+1. Programming Language ( the programming language similar to the vernacular language you need to master before you write poetry).
+2. The programming skill ( its the actual skill that you need to develop to write programs, its like a skill you need to develop to write poetry).
 
 ## Guidelines
 
@@ -23,12 +19,12 @@ Equally there are so many folks, students out there who find very difficult to u
 
 - Don't worry about the edition like 4th edition or 3rd edition, Only very few books really have additions in new editions other than that its all marketing gymics. You can pick any edition and start learning.
 
-### Approach Cover To Cover.
+### Approach: Cover To Cover
 
 - Don't leave any chapters for any reason, because you are not studying for any examination rather you are studying for the accumulation of knowledge. 
 - Importantly don't be selective in learning like learning the 3rd chapter to 5th chapter omitting 6th chapter and learning 7th chapter to last chapter. Rather be exhaustive in your learning approach. Meaning read everything *Cover To Cover* in a book. Because the author would have written for certainly for number of reasons.
 
-### Workout and Build your muscles
+### Workout and Build Your Muscles
 
 - The exercises you are going through is a skill building exercise. To really make that happen you have to build your muscles. 
 - Since there is no examination that you have to write, make it as a habit to work out the exercises at the end of every chapter / lessons. 
