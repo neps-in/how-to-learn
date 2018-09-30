@@ -46,7 +46,7 @@ Equally there are so many folks, students out there who find very difficult to u
 
 Here is the order in which one has to learn computer science. Not only the order is given and also the importance of each and every subject is highlighted which is normally discarded.
 
-### 1. Programming fundamentals of a Language 
+## 1. Programming fundamentals of a Language 
 
 First you should learn computer programming fundamentals. This is very very important, this is basically to tune your brain into the frame of your thinking in terms of computer science. You would come across lots of new terms in this world. Learn all those right now, otherwise it would be too late and you would never understand other concepts.
 
@@ -105,7 +105,7 @@ Manipulating the memory directly, like managing the memory is relatively complex
 
 ![How to solve it by computers](computer-science-imgs/how-to-solve-it-by-cs.jpg)
 
-### 2. Algorithms and data structures
+## 2. Algorithms and data structures
 
 Algorithms and data structures gives everyone an opportunity to explore various techniques of programming. 
 ### Good Reads
