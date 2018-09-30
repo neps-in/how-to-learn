@@ -39,7 +39,8 @@ Equally there are so many folks, students out there who find very difficult to u
 
 ### Read and Write 
 
-- Inculcate the habit of reading others code, especially popular code base on any language, This would speedup your programming skills. You can learn quickly from great experts out there. Explore github.com. Pick a language of your choice and see whats written by great developers. This would certainly quicken your way of learnings. So *Read More code -> Learn -> Write Great Code*.
+- Inculcate the habit of reading others code, especially popular code base on any language, This would speedup your programming skills. You can learn quickly from great experts out there. Explore github.com. Pick a language of your choice and see whats written by great developers. This would certainly quicken your way of learnings. So *Read More code -> Learn -> Write Great Code*
+
 
 ## What to Learning and in what order ?
 
@@ -95,10 +96,17 @@ Another very important to learn is invariablly functions, because functions are 
 - Memory Referencing / Pointers / Dynamic Memory allocation: 
 Manipulating the memory directly, like managing the memory is relatively complex, Like building a linked list dynamically at runtime are very vital fundas that you would be using when you write large systems. For example when you are creating editor yourself, you never know what would be the size of the file your user would open using editor, So you should know to store the file in memory and manage the memory . This is very very important. Perhaps these are key things that would differenciate a mediocer developer and Smart developer. You should consider memory management when you are developing systems by yourself.
 
+- By the end of this you should be able to write/acomplish/solve small to simple programming problems, 
 ### Algorithm & Data Structures 
 
-Algorithms and data structures gives everyone an opportunity to explore various techniques of programming.
+### Good Reads
 
+[How to Solve it By Computers by Dromey](https://www.flipkart.com/solve-computer-1st/p/itmdwkm4rvgewynz?pid=9788131705629&lid=LSTBOK9788131705629VMWFMA&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=SEARCH&iid=440e6747-dbde-4b6b-9920-71fd8cc8a616.9788131705629.SEARCH&ppt=Homepage&ppn=Homepage&ssid=kh3bc6nz28w8wsgw1538317154229&qH=66302355916593f5)
+![How to solve it by computers](computer-science-imgs/how-to-solve-it-by-cs.jpg)
+
+### 2. Algorithms and data structures
+
+Algorithms and data structures gives everyone an opportunity to explore various techniques of programming. 
 ### Good Reads
 
 [Introduction to Algorithms by Al. Cormen](https://www.flipkart.com/introduction-algorithms-3rd/p/itmdwxyrafdburzg?pid=9788120340077&lid=LSTBOK9788120340077XQBB5U&marketplace=FLIPKART&srno=s_1_4&otracker=AS_Query_OrganicAutoSuggest_0_11&fm=SEARCH&iid=REQ42029b4c826942d5827eeb153664f984_1&ppt=Homepage&ppn=Homepage&ssid=qtln66auggo4kco81538307569534&qH=a4065a25e7f8adb5)
