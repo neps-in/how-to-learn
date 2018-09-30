@@ -22,16 +22,16 @@ Equally there are so many folks, students out there who find very difficult to u
 
 ## Guidelines
 
-#### Edition doesnt matter, rather Addition of knowledge matters.
+### Edition doesnt matter, rather Addition of knowledge matters.
 
 - Don't worry about the edition like 4th edition or 3rd edition, Only very few books really have additions in new editions other than that its all marketing gymics. You can pick any edition and start learning.
 
-#### Approach Cover To Cover.
+### Approach Cover To Cover.
 
 - Don't leave any chapters for any reason, because you are not studying for any examination rather you are studying for the accumulation of knowledge. 
 - Importantly don't be selective in learning like learning the 3rd chapter to 5th chapter omitting 6th chapter and learning 7th chapter to last chapter. Rather be exhaustive in your learning approach. Meaning read everything *Cover To Cover* in a book. Because the author would have written for certainly for number of reasons.
 
-#### Workout and Build your muscles
+### Workout and Build your muscles
 
 - The exercises you are going through is a skill building exercise. To really make that happen we have to build your muscles. 
 - Since there is no examination that you have to write, make it as a habit to work out the exercises at the end of every chapter / lessons. 
@@ -40,7 +40,7 @@ Equally there are so many folks, students out there who find very difficult to u
 - Try to make your program compact with compromising on quality. Simplicity is the key.
 - Readability and maintainability are the key, Because the program that you write should be easily understandable by your friend to improve it, or to add new feature or to fix a bug in your code.
 
-#### Read and Write 
+### Read and Write 
 
 - Inculcate the habit of reading others code, especially popular code base on any language, This would speedup your programming skills. You can learn quickly from great experts out there. Explore github.com. Pick a language of your choice and see whats written by great developers. This would certainly quicken your way of learnings. So *Read More code -> Learn -> Write Great Code*.
 
