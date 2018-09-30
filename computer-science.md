@@ -1,6 +1,5 @@
 # How To Learn Computer Science
 
-
 ## What is Science ? 
 
 In my understanding its the study of understanding how the world around us works. Computer Science is one such field that is very specific about this modern machine.
@@ -14,9 +13,7 @@ To write poetry you need lots of vernacular skills, here you need lots of
 1. The language ( the programming language , the vernacular language you need to master before you write poetry)
 2. The programming skill ( its the actual skill that you need to develop to write programs, its like a skill you need to develop to write poetry)
 
-
 Computer Science is the buzz of this era with Machine learning, Artificial Intelligence, Deep learning, Natural Language Processing, Data Science as common words in the city like Bengaluru, Chennai where the digital revolution is taking place. Its overwhelming.
-
 
 Equally there are so many folks, students out there who find very difficult to understand a simple fibbonaci sequence generation program. How did this happen 
 
@@ -33,7 +30,7 @@ Equally there are so many folks, students out there who find very difficult to u
 
 ### Workout and Build your muscles
 
-- The exercises you are going through is a skill building exercise. To really make that happen we have to build your muscles. 
+- The exercises you are going through is a skill building exercise. To really make that happen you have to build your muscles. 
 - Since there is no examination that you have to write, make it as a habit to work out the exercises at the end of every chapter / lessons. 
 - Try to do as much exercises as possible
 - Apply various techniques, meaning try to write a single program with various techniques like using for loop, using while loops. This will help you understand the real potential power of each tools.
@@ -48,7 +45,7 @@ Equally there are so many folks, students out there who find very difficult to u
 
 Here is the order in which one has to learn computer science. Not only the order is given and also the importance of each and every subject is highlighted which is normally discarded.
 
-### Programming fundamentals of a Language 
+### 1. Programming fundamentals of a Language 
 
 First you should learn computer programming fundamentals. This is very very important, this is basically to tune your brain into the frame of your thinking in terms of computer science. You would come across lots of new terms in this world. Learn all those right now, otherwise it would be too late and you would never understand other concepts.
 
@@ -92,6 +89,17 @@ while loop
 do while loop
 
 ```
-- 
+- Functions / Modules / Subroutines : 
+Another very important to learn is invariablly functions, because functions are the building blocks of huge software. If you consider software as a Table, Legs, Top plate,frames are the building components that makes up the table. Similarly functions are very important. Learning how to use function to take advantage of functions is one of the primary important thing. 
+
+- Memory Referencing / Pointers / Dynamic Memory allocation: 
+Manipulating the memory directly, like managing the memory is relatively complex, Like building a linked list dynamically at runtime are very vital fundas that you would be using when you write large systems. For example when you are creating editor yourself, you never know what would be the size of the file your user would open using editor, So you should know to store the file in memory and manage the memory . This is very very important. Perhaps these are key things that would differenciate a mediocer developer and Smart developer. You should consider memory management when you are developing systems by yourself.
+
 ### Algorithm & Data Structures 
+
+Algorithms and data structures gives everyone an opportunity to explore various techniques of programming.
+
+### Good Reads
+
+[Introduction to Algorithms by Al. Cormen](https://www.flipkart.com/introduction-algorithms-3rd/p/itmdwxyrafdburzg?pid=9788120340077&lid=LSTBOK9788120340077XQBB5U&marketplace=FLIPKART&srno=s_1_4&otracker=AS_Query_OrganicAutoSuggest_0_11&fm=SEARCH&iid=REQ42029b4c826942d5827eeb153664f984_1&ppt=Homepage&ppn=Homepage&ssid=qtln66auggo4kco81538307569534&qH=a4065a25e7f8adb5)
 
