@@ -97,7 +97,6 @@ Another very important to learn is invariablly functions, because functions are 
 Manipulating the memory directly, like managing the memory is relatively complex, Like building a linked list dynamically at runtime are very vital fundas that you would be using when you write large systems. For example when you are creating editor yourself, you never know what would be the size of the file your user would open using editor, So you should know to store the file in memory and manage the memory . This is very very important. Perhaps these are key things that would differenciate a mediocer developer and Smart developer. You should consider memory management when you are developing systems by yourself.
 
 - By the end of this you should be able to write/acomplish/solve small to simple programming problems, 
-### Algorithm & Data Structures 
 
 ### Good Reads
 
