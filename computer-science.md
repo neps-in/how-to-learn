@@ -15,7 +15,7 @@ To write poetry you need lots of vernacular skills, here you need set of followi
 
 ## Guidelines
 
-### Edition doesnt matter, rather Addition of knowledge matters.
+### Edition doesn't matter, rather Addition of knowledge matters.
 
 - Don't worry about the edition like 4th edition or 3rd edition, Only very few books really have additions in new editions other than that its all marketing gymics. You can pick any edition and start learning.
 
