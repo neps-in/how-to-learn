@@ -1,4 +1,4 @@
-# How To Learn
+# How To Learn - Guide to Self Learn
 
 This contains ways and means to learn or master a field of study. This is a collection of series of books and the order in which they have to be learned.
 This is in a motive to help the college dropouts or who is less privileged over the others to visit college and be educated, but still have the urge or  need to learn and curious mind.
