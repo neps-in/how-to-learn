@@ -1,4 +1,4 @@
-# How To Learn Guide - A Guide Self Learners aka Self Made Genius
+# How To Learn Guide - A Guide for Self Learners aka Self Made Genius
 
 This is a collection of How to learn guide different field of science for self learners.
 
