@@ -116,7 +116,7 @@ Manipulating the memory directly, like managing the memory is relatively complex
 
 [How to Solve it By Computers by Dromey](https://www.flipkart.com/solve-computer-1st/p/itmdwkm4rvgewynz?pid=9788131705629&lid=LSTBOK9788131705629VMWFMA&marketplace=FLIPKART&srno=s_1_1&otracker=search&fm=SEARCH&iid=440e6747-dbde-4b6b-9920-71fd8cc8a616.9788131705629.SEARCH&ppt=Homepage&ppn=Homepage&ssid=kh3bc6nz28w8wsgw1538317154229&qH=66302355916593f5)
 
-![How to solve it by computers](../computer-science-imgs/how-to-solve-it-by-cs.jpg)
+![How to solve it by computers](computer-science-imgs/how-to-solve-it-by-cs.jpg)
 
 ## 2. Algorithms and Data Structures
 
